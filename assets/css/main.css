@@ -4086,3 +4086,19 @@ html, body {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+/* Adem css */
+
+#logoCorrection{
+  top: 0;
+}
+
+.logoImg{
+  width: 150px;
+}
+
+@media screen and (max-width: 768px) {
+  #logoCorrection{
+    top: 20px;
+  }
+}
